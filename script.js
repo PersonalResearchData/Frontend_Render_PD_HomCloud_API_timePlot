@@ -117,7 +117,7 @@ async function processFiles() {
 
     // ★★★ STEP 2: あなたのRender API URLに置き換えてください ★★★
     // const apiUrl = "https://your-service-name.onrender.com/process_pca";
-    const apiUrl = "https://render-pd-homcloud-api.onrender.com/process_pca";
+    const apiUrl = "https://render-pd-homcloud-api-2.onrender.com";
     // ★★★ ========================================== ★★★
 
     if (apiUrl.includes("your-service-name")) {
